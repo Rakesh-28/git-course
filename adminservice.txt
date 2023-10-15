@@ -2,5 +2,6 @@ admin can do anything.
 
 Changed github username
 
+Bla bla
 
 Added something in feature branch 
